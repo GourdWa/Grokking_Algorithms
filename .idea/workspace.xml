@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="770e7dee-f1bb-4075-92be-ffde14ceb15a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter4/src/com/learn/FindMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/chapter6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/src/com/learn/FillColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/src/com/learn/HorseTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/填涂颜色.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/马的遍历.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,6 +34,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/chapter6" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Study\JAVA\Algorithm\Grokking_Algorithms\chapter6" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -43,10 +53,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindMax">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learn.BinarySearch" />
-      <module name="chapter1" />
+  <component name="RunManager" selected="Application.HorseTraversal">
+    <configuration name="FillColor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.FillColor" />
+      <module name="chapter6" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.learn.*" />
@@ -70,9 +80,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learn.QuickSort" />
-      <module name="chapter4" />
+    <configuration name="HorseTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.HorseTraversal" />
+      <module name="chapter6" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.learn.*" />
@@ -83,9 +93,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learn.SelectionSort" />
-      <module name="chapter2" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.QuickSort" />
+      <module name="chapter4" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.learn.*" />
@@ -111,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HorseTraversal" />
+        <item itemvalue="Application.FillColor" />
         <item itemvalue="Application.FindMax" />
         <item itemvalue="Application.Sum" />
         <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.BinarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +142,9 @@
       <workItem from="1585914576303" duration="2566000" />
       <workItem from="1586268378104" duration="6015000" />
       <workItem from="1586312751422" duration="1072000" />
-      <workItem from="1586335035059" duration="3056000" />
+      <workItem from="1586335035059" duration="3142000" />
+      <workItem from="1586353788903" duration="263000" />
+      <workItem from="1586399469657" duration="6747000" />
     </task>
     <servers />
   </component>
@@ -144,7 +156,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -159,9 +173,19 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/chapter4/src/com/learn/FindMax.java</url>
-          <line>31</line>
+          <url>file://$PROJECT_DIR$/chapter6/src/com/learn/FillColor.java</url>
+          <line>60</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chapter6/src/com/learn/HorseTraversal.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chapter6/src/com/learn/HorseTraversal.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
