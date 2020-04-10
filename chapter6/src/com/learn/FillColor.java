@@ -1,8 +1,8 @@
 package com.learn;
 
 import java.util.ArrayDeque;
-import java.util.Queue;
-import java.util.Scanner;
+        import java.util.Queue;
+        import java.util.Scanner;
 
 /**
  * @author ZixiangHu
@@ -15,6 +15,7 @@ public class FillColor {
 //        一个点的上下左右四个方位
         int[] xx = {0, 1, 0, -1};
         int[] yy = {1, 0, -1, 0};
+
 //     记录那些坐标被访问，true代表被访问
         boolean[][] vis = new boolean[arr.length][arr.length];
         Queue<Integer> x = new ArrayDeque<>();

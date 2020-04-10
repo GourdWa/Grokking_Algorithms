@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="770e7dee-f1bb-4075-92be-ffde14ceb15a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter6/chapter6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter6/src/com/learn/FillColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter6/src/com/learn/HorseTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter6/填涂颜色.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter6/马的遍历.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/src/com/learn/StrangeElevator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/src/com/learn/SurroundedRegions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/奇怪的电梯.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/被围绕的区域.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6/src/com/learn/FillColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/src/com/learn/FillColor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter6/com/learn/FillColor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter6/com/learn/FillColor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter6/com/learn/HorseTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter6/com/learn/HorseTraversal.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +54,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HorseTraversal">
+  <component name="RunManager" selected="Application.StrangeElevator">
     <configuration name="FillColor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.learn.FillColor" />
       <module name="chapter6" />
@@ -93,9 +94,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learn.QuickSort" />
-      <module name="chapter4" />
+    <configuration name="StrangeElevator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.StrangeElevator" />
+      <module name="chapter6" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.learn.*" />
@@ -106,9 +107,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learn.Sum" />
-      <module name="chapter4" />
+    <configuration name="SurroundedRegions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.SurroundedRegions" />
+      <module name="chapter6" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.learn.*" />
@@ -121,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HorseTraversal" />
+        <item itemvalue="Application.StrangeElevator" />
+        <item itemvalue="Application.SurroundedRegions" />
         <item itemvalue="Application.FillColor" />
+        <item itemvalue="Application.HorseTraversal" />
         <item itemvalue="Application.FindMax" />
-        <item itemvalue="Application.Sum" />
-        <item itemvalue="Application.QuickSort" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +145,8 @@
       <workItem from="1586312751422" duration="1072000" />
       <workItem from="1586335035059" duration="3142000" />
       <workItem from="1586353788903" duration="263000" />
-      <workItem from="1586399469657" duration="6747000" />
+      <workItem from="1586399469657" duration="7370000" />
+      <workItem from="1586502109380" duration="6376000" />
     </task>
     <servers />
   </component>
@@ -168,16 +170,6 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/chapter4/src/com/learn/QuickSort.java</url>
-          <line>41</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/chapter6/src/com/learn/FillColor.java</url>
-          <line>60</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/chapter6/src/com/learn/HorseTraversal.java</url>
           <line>96</line>
           <option name="timeStamp" value="4" />
@@ -186,6 +178,11 @@
           <url>file://$PROJECT_DIR$/chapter6/src/com/learn/HorseTraversal.java</url>
           <line>71</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chapter6/src/com/learn/SurroundedRegions.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
