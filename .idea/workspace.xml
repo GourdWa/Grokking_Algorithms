@@ -6,6 +6,9 @@
       <change afterPath="$PROJECT_DIR$/chapter6/src/com/learn/SurroundedRegions.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/chapter6/奇怪的电梯.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/chapter6/被围绕的区域.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/chapter6/com/learn/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/chapter6/com/learn/StrangeElevator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/chapter6/com/learn/SurroundedRegions.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chapter6/src/com/learn/FillColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/src/com/learn/FillColor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/chapter6/com/learn/FillColor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter6/com/learn/FillColor.class" afterDir="false" />
@@ -146,7 +149,7 @@
       <workItem from="1586335035059" duration="3142000" />
       <workItem from="1586353788903" duration="263000" />
       <workItem from="1586399469657" duration="7370000" />
-      <workItem from="1586502109380" duration="6376000" />
+      <workItem from="1586502109380" duration="6968000" />
     </task>
     <servers />
   </component>
