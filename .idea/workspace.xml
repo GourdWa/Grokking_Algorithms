@@ -31,7 +31,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/chapter7/src/com/learn" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/chapter7" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -147,7 +147,7 @@
       <workItem from="1586518651915" duration="10000" />
       <workItem from="1586526602308" duration="1111000" />
       <workItem from="1586530028349" duration="618000" />
-      <workItem from="1586570288504" duration="11951000" />
+      <workItem from="1586570288504" duration="12334000" />
     </task>
     <servers />
   </component>
