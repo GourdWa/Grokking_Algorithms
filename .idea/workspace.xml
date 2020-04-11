@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="770e7dee-f1bb-4075-92be-ffde14ceb15a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter7/src/com/learn/DijkstraTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7/src/com/learn/DijkstraTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/chapter8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/src/com/learn/ArraySegmentation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/src/com/learn/MixingMilk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/src/com/learn/QueuingWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/src/com/learn/SouvenirGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/排队接水.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/数列分段.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/混合牛奶.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/纪念品分组.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -31,10 +38,15 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/chapter7" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/chapter8" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Study\JAVA\Algorithm\Grokking_Algorithms\chapter8" />
+      <recent name="E:\Study\JAVA\Algorithm\Grokking_Algorithms\chapter7" />
       <recent name="E:\Study\JAVA\Algorithm\Grokking_Algorithms\chapter7\src\com\learn" />
       <recent name="E:\Study\JAVA\Algorithm\Grokking_Algorithms\chapter6" />
     </key>
@@ -51,10 +63,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DijkstraTest02">
-    <configuration name="DijkstraTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learn.DijkstraTest01" />
-      <module name="chapter7" />
+  <component name="RunManager" selected="Application.QueuingWater">
+    <configuration name="ArraySegmentation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.ArraySegmentation" />
+      <module name="chapter8" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.learn.*" />
@@ -78,9 +90,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FillColor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learn.FillColor" />
-      <module name="chapter6" />
+    <configuration name="MixingMilk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.MixingMilk" />
+      <module name="chapter8" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.learn.*" />
@@ -91,9 +103,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StrangeElevator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learn.StrangeElevator" />
-      <module name="chapter6" />
+    <configuration name="QueuingWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.QueuingWater" />
+      <module name="chapter8" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.learn.*" />
@@ -104,9 +116,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SurroundedRegions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learn.SurroundedRegions" />
-      <module name="chapter6" />
+    <configuration name="SouvenirGroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.SouvenirGroup" />
+      <module name="chapter8" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.learn.*" />
@@ -119,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QueuingWater" />
+        <item itemvalue="Application.MixingMilk" />
+        <item itemvalue="Application.SouvenirGroup" />
+        <item itemvalue="Application.ArraySegmentation" />
         <item itemvalue="Application.DijkstraTest02" />
-        <item itemvalue="Application.DijkstraTest01" />
-        <item itemvalue="Application.StrangeElevator" />
-        <item itemvalue="Application.SurroundedRegions" />
-        <item itemvalue="Application.FillColor" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +159,7 @@
       <workItem from="1586518651915" duration="10000" />
       <workItem from="1586526602308" duration="1111000" />
       <workItem from="1586530028349" duration="618000" />
-      <workItem from="1586570288504" duration="12334000" />
+      <workItem from="1586570288504" duration="21566000" />
     </task>
     <servers />
   </component>
@@ -184,6 +196,11 @@
           <url>file://$PROJECT_DIR$/chapter6/src/com/learn/SurroundedRegions.java</url>
           <line>34</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chapter8/src/com/learn/ArraySegmentation.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
