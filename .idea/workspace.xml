@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="770e7dee-f1bb-4075-92be-ffde14ceb15a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter6/src/com/learn/StrangeElevator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter6/src/com/learn/SurroundedRegions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter6/奇怪的电梯.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter6/被围绕的区域.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter6/com/learn/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter6/com/learn/StrangeElevator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/chapter6/com/learn/SurroundedRegions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7/src/com/learn/DijkstraTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7/src/com/learn/DijkstraTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6/src/com/learn/FillColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6/src/com/learn/FillColor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter6/com/learn/FillColor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter6/com/learn/FillColor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter6/com/learn/HorseTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter6/com/learn/HorseTraversal.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,10 +31,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/chapter6" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/chapter7/src/com/learn" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Study\JAVA\Algorithm\Grokking_Algorithms\chapter7\src\com\learn" />
       <recent name="E:\Study\JAVA\Algorithm\Grokking_Algorithms\chapter6" />
     </key>
   </component>
@@ -57,35 +51,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StrangeElevator">
+  <component name="RunManager" selected="Application.DijkstraTest02">
+    <configuration name="DijkstraTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.DijkstraTest01" />
+      <module name="chapter7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DijkstraTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.DijkstraTest02" />
+      <module name="chapter7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FillColor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.learn.FillColor" />
-      <module name="chapter6" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.learn.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learn.FindMax" />
-      <module name="chapter4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.learn.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HorseTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learn.HorseTraversal" />
       <module name="chapter6" />
       <extension name="coverage">
         <pattern>
@@ -125,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DijkstraTest02" />
+        <item itemvalue="Application.DijkstraTest01" />
         <item itemvalue="Application.StrangeElevator" />
         <item itemvalue="Application.SurroundedRegions" />
         <item itemvalue="Application.FillColor" />
-        <item itemvalue="Application.HorseTraversal" />
-        <item itemvalue="Application.FindMax" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +143,11 @@
       <workItem from="1586335035059" duration="3142000" />
       <workItem from="1586353788903" duration="263000" />
       <workItem from="1586399469657" duration="7370000" />
-      <workItem from="1586502109380" duration="6968000" />
+      <workItem from="1586502109380" duration="7226000" />
+      <workItem from="1586518651915" duration="10000" />
+      <workItem from="1586526602308" duration="1111000" />
+      <workItem from="1586530028349" duration="618000" />
+      <workItem from="1586570288504" duration="11951000" />
     </task>
     <servers />
   </component>
