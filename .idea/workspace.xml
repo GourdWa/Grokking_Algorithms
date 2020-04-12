@@ -2,17 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="770e7dee-f1bb-4075-92be-ffde14ceb15a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter8/chapter8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter8/src/com/learn/ArraySegmentation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter8/src/com/learn/MixingMilk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter8/src/com/learn/QueuingWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter8/src/com/learn/SouvenirGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter8/排队接水.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter8/数列分段.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter8/混合牛奶.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter8/纪念品分组.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/src/com/learn/CanJump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/src/com/learn/LineProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/src/com/learn/MergeFruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/src/com/learn/Poker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/合并果子.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/均分纸牌.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter8/线段覆盖.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter8/com/learn/QueuingWater.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter8/com/learn/QueuingWater.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,9 +61,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.QueuingWater">
-    <configuration name="ArraySegmentation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learn.ArraySegmentation" />
+  <component name="RunManager" selected="Application.Poker">
+    <configuration name="CanJump" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.CanJump" />
       <module name="chapter8" />
       <extension name="coverage">
         <pattern>
@@ -77,9 +75,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DijkstraTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learn.DijkstraTest02" />
-      <module name="chapter7" />
+    <configuration name="LineProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.LineProblem" />
+      <module name="chapter8" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.learn.*" />
@@ -90,8 +88,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MixingMilk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learn.MixingMilk" />
+    <configuration name="MergeFruit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.MergeFruit" />
+      <module name="chapter8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Poker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.Poker" />
       <module name="chapter8" />
       <extension name="coverage">
         <pattern>
@@ -116,26 +127,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SouvenirGroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learn.SouvenirGroup" />
-      <module name="chapter8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.learn.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Poker" />
+        <item itemvalue="Application.MergeFruit" />
+        <item itemvalue="Application.LineProblem" />
+        <item itemvalue="Application.CanJump" />
         <item itemvalue="Application.QueuingWater" />
-        <item itemvalue="Application.MixingMilk" />
-        <item itemvalue="Application.SouvenirGroup" />
-        <item itemvalue="Application.ArraySegmentation" />
-        <item itemvalue="Application.DijkstraTest02" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +157,9 @@
       <workItem from="1586518651915" duration="10000" />
       <workItem from="1586526602308" duration="1111000" />
       <workItem from="1586530028349" duration="618000" />
-      <workItem from="1586570288504" duration="21566000" />
+      <workItem from="1586570288504" duration="22166000" />
+      <workItem from="1586621679482" duration="843000" />
+      <workItem from="1586658169359" duration="15000000" />
     </task>
     <servers />
   </component>
@@ -202,7 +202,27 @@
           <line>16</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chapter8/src/com/learn/CanJump.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chapter8/src/com/learn/LineProblem.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chapter8/src/com/learn/Poker.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="queue.peek() + i" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
