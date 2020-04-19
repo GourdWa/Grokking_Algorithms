@@ -6,6 +6,10 @@
       <change afterPath="$PROJECT_DIR$/dfs/src/com/learn/WordLadder.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/dfs/src/com/learn/WordLadder2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/dfs/单词接龙.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/dfs/com/learn/EightQueensByRecursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/dfs/com/learn/Maze.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/dfs/com/learn/WordLadder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/dfs/com/learn/WordLadder2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/dfs/com/learn/EightQueens_LeetCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dfs/com/learn/EightQueens_LeetCode.class" afterDir="false" />
     </list>
@@ -178,7 +182,7 @@
       <workItem from="1586917973207" duration="24884000" />
       <workItem from="1587135592332" duration="1010000" />
       <workItem from="1587173015819" duration="9242000" />
-      <workItem from="1587264016873" duration="4357000" />
+      <workItem from="1587264016873" duration="4369000" />
     </task>
     <servers />
   </component>
