@@ -2,20 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="770e7dee-f1bb-4075-92be-ffde14ceb15a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter9/src/com/learn/LittleA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter9/小A点菜.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfs/src/com/learn/EightQueens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfs/src/com/learn/EightQueensByRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfs/src/com/learn/EightQueens_LeetCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfs/src/com/learn/Permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfs/src/com/learn/Permutations_LeetCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfs/全排列LeetCode.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfs/全排列问题.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dfs/八皇后.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dfs/src/com/learn/Maze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dfs/src/com/learn/WordLadder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dfs/src/com/learn/WordLadder2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dfs/单词接龙.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter9/com/learn/Bag.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter9/com/learn/Bag.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter9/com/learn/Boxing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter9/com/learn/Boxing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dfs/com/learn/EightQueens_LeetCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dfs/com/learn/EightQueens_LeetCode.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +73,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EightQueens_LeetCode">
+  <component name="RunManager" selected="Application.WordLadder2">
     <configuration name="EightQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.learn.EightQueens" />
       <module name="dfs" />
@@ -108,21 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LittleA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learn.LittleA" />
-      <module name="chapter9" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.learn.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learn.Permutation" />
+    <configuration name="Maze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.Maze" />
       <module name="dfs" />
       <extension name="coverage">
         <pattern>
@@ -134,8 +113,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Permutations_LeetCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learn.Permutations_LeetCode" />
+    <configuration name="WordLadder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.WordLadder" />
+      <module name="dfs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordLadder2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.WordLadder2" />
       <module name="dfs" />
       <extension name="coverage">
         <pattern>
@@ -149,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WordLadder2" />
+        <item itemvalue="Application.WordLadder" />
+        <item itemvalue="Application.Maze" />
         <item itemvalue="Application.EightQueens_LeetCode" />
         <item itemvalue="Application.EightQueens" />
-        <item itemvalue="Application.Permutations_LeetCode" />
-        <item itemvalue="Application.Permutation" />
-        <item itemvalue="Application.LittleA" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +175,10 @@
       <workItem from="1586741231524" duration="109000" />
       <workItem from="1586762551666" duration="15171000" />
       <workItem from="1586855194064" duration="6619000" />
-      <workItem from="1586917973207" duration="24315000" />
+      <workItem from="1586917973207" duration="24884000" />
+      <workItem from="1587135592332" duration="1010000" />
+      <workItem from="1587173015819" duration="9242000" />
+      <workItem from="1587264016873" duration="4357000" />
     </task>
     <servers />
   </component>
@@ -256,12 +251,27 @@
           <line>42</line>
           <option name="timeStamp" value="50" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dfs/src/com/learn/WordLadder.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dfs/src/com/learn/WordLadder.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dfs/src/com/learn/WordLadder.java</url>
+          <line>116</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="x - i + cols.length" language="JAVA" />
-        <watch expression="x + i" language="JAVA" />
+        <watch expression="word.substring(la - p)" language="JAVA" />
+        <watch expression="words[i].substring(0, p)" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
